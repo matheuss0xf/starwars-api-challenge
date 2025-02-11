@@ -143,3 +143,4 @@ starwars-api/
     - Uma vez identificada a entidade, buscamos informações relevantes na API SWAPI.
 
 ### Executando o projeto:
+![api](https://github.com/user-attachments/assets/ab196f5a-d5d1-4628-83ef-44f62be6d321)
