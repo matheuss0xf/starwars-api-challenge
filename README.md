@@ -90,7 +90,7 @@ Esta é uma API construída com FastAPI que permite a interação com o universo
    ```bash
    poetry install
    ```
-
+    ```python -m spacy download pt_core_news_sm```
 3. **Inicie a aplicação**:
 
     ```bash
