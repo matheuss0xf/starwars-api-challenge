@@ -10,7 +10,6 @@ class Settings(BaseSettings):
     DESCRIPTION: str = 'API para explorar o universo Star Wars com filtros avançados'
     QUESTIONS_FILE: str = 'app/assets/questions.py'
     SWAPI_BASE_URL: str
-    APIKEY_MARICATA: str
 
     class Config:
         env_file = '.env'
